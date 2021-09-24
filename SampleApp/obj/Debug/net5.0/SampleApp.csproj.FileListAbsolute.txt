@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.exe
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.deps.json
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.runtimeconfig.json
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.runtimeconfig.dev.json
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\ref\SampleApp.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\bin\Debug\net5.0\SampleApp.pdb
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\ref\SampleApp.dll
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.pdb
+D:\Data\d drive\Corp\RPS\CTS\CDE21ID014\Stage3\Day10\GitExample\SampleApp\obj\Debug\net5.0\SampleApp.genruntimeconfig.cache
